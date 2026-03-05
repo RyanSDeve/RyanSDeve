@@ -85,4 +85,4 @@ Pretendo adicionar aqui:
 
 ###
 
-<h3 align="center">💡 "Sempre aprendendo, um commit de cada vez."</h3>
+<h3 align="center">💡 "Esforça-te e tem bom ânimo."</h3>
