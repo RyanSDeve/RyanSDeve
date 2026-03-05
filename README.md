@@ -2,6 +2,8 @@
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHR3NWYyNHp3ajFrb3Z3d2xhMHFrMG5paGwwb2h6b2ZsbGx1Ym1mMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
+---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ryan-soares-17488b351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -58,15 +60,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 
 </div>
-
----
-
-<h3 align="left">🔥 Estatísticas do GitHub</h3>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=RyanSDeve&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanSDeve&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
